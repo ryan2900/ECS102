@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Topping
+comment0.text=\n\ A\ topping\ that\ falls\ down\ the\ screen.\ One\ Topping\ class\ is\ used\ for\ every\n\ kind\ of\ topping;\ the\ name\ picks\ the\ image\ (e.g.\ "Pepperoni"\ ->\ Pepperoni.png).\n\n\ @author\ Ryan\ Norouzi\n\ @version\ 2026-10-01\n
+comment1.params=name
+comment1.target=Topping(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Topping\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ fall()
+comment3.text=\n\ Move\ down\ the\ screen.\ When\ the\ topping\ reaches\ the\ bottom,\ jump\ back\n\ to\ the\ top\ at\ a\ random\ x\ so\ it\ falls\ again.\n
+numComments=4
